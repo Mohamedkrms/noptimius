@@ -148,6 +148,10 @@ Network-Optimius/
 
 ---
 
+## Tags 
+#bash #linux #networking #dns #dns-optimizer #network-optimization #devops #sysadmin #automation
+#cron #network-management #network-monitoring #network-tools #privacy #performance #bash-script
+
 ##  License
 
 - GPL-3.0 license
